@@ -13,7 +13,7 @@ Passionate and results-oriented Web Developer with a background in marketing, tr
 -   **Front-End Development:** Vue.js, React, React Native, HTML5, CSS3, TailwindCSS
 -   **Back-End Development:** Python, Django framework, PostgreSQL
 -   **Database:** PostgreSQL
--   **Cloud Deployment:** DigitalOcean
+-   **Cloud Deployment:** DigitalOcean, Google Cloud Platform, Microsoft Azure
 -   **Additional Skills:** Project Management, Problem-Solving, Communication, Teamwork, Self-Motivated, Adaptability
 
 **Education**
