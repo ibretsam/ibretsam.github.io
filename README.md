@@ -39,6 +39,7 @@ Passionate and results-oriented Web Developer with a background in marketing, tr
 **Personal Projects**
 
 -   **Messenger App (React Native, Django, PostgreSQL, DigitalOcean)** - Ongoing
+
     [Mobile App](https://github.com/ibretsam/RealtimeChatApp) - [API](https://github.com/ibretsam/RealtimeChatAPI)
     -   Developed a full-stack mobile messaging app as a personal learning project.
     -   Gained hands-on experience with the entire development lifecycle, from conception to deployment.
