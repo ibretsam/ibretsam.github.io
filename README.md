@@ -30,7 +30,7 @@ Passionate and results-oriented Web Developer with a background in marketing, tr
 
 **Work Experience**
 
-**Web Developer - Longdan** (September 2022 - Present)
+**Web Developer - Longdan Ltd.** (September 2022 - Present)
 
 -   Developed and maintained web applications using Vue.js for the front-end and .NET framework for the back-end.
 -   Contributed to building apps for goods transportation management, logistics management, and an e-commerce site.
