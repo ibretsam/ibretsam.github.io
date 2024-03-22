@@ -22,7 +22,8 @@ Passionate and results-oriented Web Developer with a background in marketing, tr
     
     -   2-year intensive program in Basic Programming and Mobile App Development
     -   Graduated with strong proficiency in various programming languages and frameworks.
-    
+
+**Certificate**    
 -   **Harvard University's CS50, Online** (July 2022)
     
     -   Completed [CS50 Web Programming with Python and Javascript](https://certificates.cs50.io/13155f32-2cad-4aec-a1d9-0adc22993488.pdf?size=letter) course.
