@@ -1,6 +1,6 @@
 
 ## Lê Hoàng Gia Khánh
-[Github](https://github.com/ibretsam) | [LinkedIn](https://www.linkedin.com/in/khanhle0709/) | [Email](mailto:khanhle.3109@gmail.com)
+[Github](https://github.com/ibretsam) | [LinkedIn](https://www.linkedin.com/in/khanhle0709/) | [Email](mailto:khanhle.3109@gmail.com) | [Leetcode](https://leetcode.com/u/ibretsam/)
 
 **Web Developer & Recent Mobile App Development Graduate**
 
