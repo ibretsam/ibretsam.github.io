@@ -47,7 +47,7 @@ Passionate and results-oriented Web Developer with a background in marketing, tr
     Developed a real-time chat application using React Native for the frontend and Django for the backend. The application allows users to send and receive messages instantly, share images, and view a list of all their messages.
     - Developed the frontend using React Native, implementing features such as real-time messaging and image sharing.
     - Utilized libraries such as @react-navigation/native-stack for navigation, react-native-image-picker for image selection, axios for HTTP requests, moment for date/time handling, react-native-encrypted-storage for secure data storage, and react-native-fast-image for efficient image display.
-    - Managed application state using Zustand, a small, fast and scaleable bear necessities state-management solution.
+    - Managed application state using Zustand.
     - Built the backend using Django, creating APIs for user authentication, message sending/receiving, and image uploading.
     - Implemented real-time functionality using Django Channels.
     - Deployed the application on Digital Ocean, ensuring high availability and performance.
