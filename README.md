@@ -33,16 +33,23 @@ Passionate and results-oriented Web Developer with a background in marketing, tr
 
 **Web Developer - Longdan Ltd.** (September 2022 - Present)
 
--   Developed and maintained web applications using Vue.js for the front-end and .NET framework for the back-end.
--   Contributed to building apps for goods transportation management, logistics management, and an e-commerce site.
--   Collaborated with cross-functional teams to ensure application functionality and usability.
+- Proficient in using VueJS for front-end development and .NET framework for back-end development.
+- Developed web applications for internal company use in areas such as goods transportation and stock movement. These applications are integrated with the SAP system.
+- Gained experience in using Blazor and MudBlazor library for front-end development.
+- Implemented front-end features for the company's e-commerce website on Shopify using JavaScript.
 
 **Personal Projects**
 
 -   **Messenger App (React Native, Django, PostgreSQL, DigitalOcean)** - Ongoing
 
     [Mobile App](https://github.com/ibretsam/RealtimeChatApp) - [API](https://github.com/ibretsam/RealtimeChatAPI)
-    -   Developed a full-stack mobile messaging app as a personal learning project.
-    -   Gained hands-on experience with the entire development lifecycle, from conception to deployment.
-    -   Continuously improving the app's functionality and addressing identified issues.
+
+    Developed a real-time chat application using React Native for the frontend and Django for the backend. The application allows users to send and receive messages instantly, share images, and view a list of all their messages.
+    - Developed the frontend using React Native, implementing features such as real-time messaging and image sharing.
+    - Utilized libraries such as @react-navigation/native-stack for navigation, react-native-image-picker for image selection, axios for HTTP requests, moment for date/time handling, react-native-encrypted-storage for secure data storage, and react-native-fast-image for efficient image display.
+    - Managed application state using Zustand, a small, fast and scaleable bear necessities state-management solution.
+    - Built the backend using Django, creating APIs for user authentication, message sending/receiving, and image uploading.
+    - Implemented real-time functionality using Django Channels.
+    - Deployed the application on Digital Ocean, ensuring high availability and performance.
+
     
